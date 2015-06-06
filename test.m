@@ -1,9 +1,7 @@
 
 function test()
   % a simple test 
-  % another comment
-  % testing
-  % another merge
+  % TODO list
   %
   fprintf('hello world');
 end
